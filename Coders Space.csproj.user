@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AddJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AddTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminJobs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CodeCompiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CodeClouds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListJobs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PUControl\PUCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PUControl\PUDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PUControl\PUJobs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PUControl\PUMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RUControl\RUCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RUControl\RUJobs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ModifyCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ModifyJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ModifyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RUControl\RUMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RUControl\RUDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Support.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet\CodersSpaceDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
